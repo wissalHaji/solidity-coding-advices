@@ -4,11 +4,11 @@ The Solidity language is a contract-oriented programming language. There are man
 
 In this chapter, you will learn about the different design patterns, that are grouped into different categories based on their usage. These categories are as follows:
 
-- [Security design patterns]()
-- [Creational patterns]()
-- [Behavioral patterns]()
-- [Economic patterns]()
-- [Life cycle patterns]()
+- [Security design patterns](security/Readme.md)
+- [Creational patterns](creational/Readme.md)
+- [Behavioral patterns](behavioral/Readme.md)
+- [Economic patterns](gas-economic/Readme.md)
+- [Life cycle patterns](life-cycle/Readme.md)
 
 Out of these categories, some of the design patterns that are mostly used in Solidity contracts are listed here:
 
