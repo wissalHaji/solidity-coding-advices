@@ -32,6 +32,7 @@ function() external payable {
 
 In the preceding code attackedAddress value is the address of the contract (which contains ether) on which an attack will be performed. An attacker will deploy this contract and initiate attack to a target contract via the attack() function:
 <img src="./reentrency-attack.png" alt="reentrancy attack"/>
+
 Reentrancy attack by an attacker
 
 The preceding diagram shows how an attacker could exploit reentrancy vulnerability present in the Target Contract. Let's look at the transaction flow shown in the preceding diagram:
