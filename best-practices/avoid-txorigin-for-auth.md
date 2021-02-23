@@ -36,8 +36,7 @@ contract AttackerContract {
 ```
 
 Here is the diagram explaining how an attacker could attack his victim:
-![tx.origin attack](attachment:txorigin-attack.png)
-
+<img src="./txorigin-attack.png" alt="tx.origin attack"/>
 Attacker steals ETH from Victim's contract via tx.origin
 
 In the preceding diagram, we have shown how an attacker attacked on the Vault contract which is using tx.origin in the onlyAuthorized modifier, in order to check the authorization of the function caller. The following actions take place in this scenario:
