@@ -25,7 +25,7 @@ public returns (bool success)
 ```
 
 This function is always prone to a front-running attack if not handled correctly. Let's see how a front-running attack happens on the approve() function, with the help of the following diagram, showing a transaction flow step by step:
-[!image](tkn-front-running-attack.png)
+![image](tkn-front-running-attack.png)
 
 Front-running attack transaction flow
 

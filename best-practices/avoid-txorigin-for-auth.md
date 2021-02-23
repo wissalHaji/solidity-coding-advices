@@ -36,7 +36,7 @@ contract AttackerContract {
 ```
 
 Here is the diagram explaining how an attacker could attack his victim:
-[!image](txorigin-attack.png)
+![image](txorigin-attack.png)
 
 Attacker steals ETH from Victim's contract via tx.origin
 
