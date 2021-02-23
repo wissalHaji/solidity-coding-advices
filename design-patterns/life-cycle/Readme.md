@@ -30,7 +30,7 @@ The mortal pattern is very dangerous when used in the contract. You should not u
 
 Let's understand when and where the mortal pattern should be used.
 
-## Applicability
+### Applicability
 
 The mortal pattern should be used in the following cases, when:
 

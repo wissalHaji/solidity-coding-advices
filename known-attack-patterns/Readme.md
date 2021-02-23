@@ -7,3 +7,9 @@ Looking at how those hacks happened, there have been many attack patterns that h
 Always keep yourself updated with the new features added in the Ethereum hard-forks or soft-forks. These new features could help you reduce the attack surface. However, some new features in Ethereum could allow more new attack patterns. As and when you learn about a new attack pattern, check your contracts and ensure that your contracts do not form these patterns.
 
 Let's look at some of the well-known attack patterns.
+
+- [Front running attacks](front-running-attacks.md)
+- [Reentrancy attacks](reentrancy-attacks.md)
+- [Replay attack](replay-attack.md)
+- [Integer overflow and underflow attacks](integer-overflow-underflow.md)
+- [Ether can be sent forcibly to a contract](ether-sent-forcibly.md)
