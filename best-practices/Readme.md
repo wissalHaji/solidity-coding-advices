@@ -10,7 +10,7 @@ While writing the smart contracts in Solidity as a developer, you will have to b
 
 - [Avoiding floating pragma](avoiding-floating-pragma.md)
 - [Avoid sharing a secret on-chain](avoid-sharing-secret-onchain.md)
-- [Be careful while using loops](be-careful-with-loops)
+- [Be careful while using loops](be-careful-with-loops.md)
 - [Avoid using tx.origin for authorization](avoid-txorigin-for-auth.md)
 - [The timestamp can be manipulated by miners](timestamp-can-be-manipulated.md)
 - [Carefully making external function calls](careful-with-external-calls.md)
